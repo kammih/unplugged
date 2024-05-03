@@ -155,7 +155,7 @@ address {
 header {
   display: flex;
   justify-content: center;
-  padding: 50px 0;
+  padding: 15px 0;
   background-color: #202322;
 }
 
@@ -226,8 +226,8 @@ footer .social-icons p {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #527158;
   border-radius: 50%;
+  background-color: #527158;
   width: 40px;
   height: 40px;
 }
